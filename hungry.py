@@ -5,4 +5,8 @@ if num%2==0:
     print('number is pizza')
     print('number is burger')
 else:
+    thirsty=input('are you thirsty')
+    if thirsty=='yes':
+        print('drink water')
+
     print('number is odd')
