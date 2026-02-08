@@ -1,6 +1,6 @@
 num=input('enter a number; ')
 num=int(num)
-if num%2==0:
+if num%2==0 and num=='n':
     print('number is even')
     print('number is pizza')
     print('number is burger')
