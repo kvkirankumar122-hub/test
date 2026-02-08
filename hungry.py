@@ -7,7 +7,7 @@ if num%2==0 and num%1==n:
     print('number is fries')
 else:
     thirsty=input('are you thirsty')
-    if thirsty=='yes':
+    if thirsty=='yes' and  thirsty=='YES':
         print('drink water')
         print('drink soda')
 
